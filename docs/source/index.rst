@@ -26,6 +26,6 @@ Contents
 Contents
 --------
 
-.. tocteree::
+.. toctree::
 
    ReadofDoc 
