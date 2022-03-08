@@ -1,9 +1,9 @@
-Usage
+Test
 =====
 
-.. _installation:
+.. _Test:
 
-Installation
+Test_memu
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Test_memu2
 ----------------
 
 To retrieve a list of random ingredients,
